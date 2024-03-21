@@ -1,0 +1,5 @@
+auth:
+  postgresPassword: rootpassword
+  database: myDB
+  username: admin
+  password: adminpassword  

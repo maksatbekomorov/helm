@@ -1,0 +1,5 @@
+auth:
+  rootPassword: rootpassword
+  database: myDB
+  username: admin
+  password: adminpassword  
